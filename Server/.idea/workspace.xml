@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Server:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="acafc342-24cb-4bb2-8fd0-04c4f317bbcb" name="Default Changelist" comment="jest komunikacja obustronna, wczytuje levele z pliku jeżeli nazwa zaczyna sie na leve i konczy na txt. Na jutro poprawic wczytywanie levelow aby dalo sie zagrac kilka podrzad">
+      <change afterPath="$PROJECT_DIR$/../.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/highScoreServer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/highScoreServer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../highScore.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../highScore.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/pacman/Punkt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/pacman/Punkt.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="instrukcja" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/com/server2/Main.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1mwMLUsk67XdGNeKrbAnKjOKAvc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jarfile" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jakub\Documents\aaStudia\proze\probna\Server" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.server2.Main" />
+      <module name="Server" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="acafc342-24cb-4bb2-8fd0-04c4f317bbcb" name="Default Changelist" comment="" />
+      <created>1610400144734</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610400144734</updated>
+      <workItem from="1610400145848" duration="224000" />
+      <workItem from="1610400378827" duration="10000" />
+      <workItem from="1610400400776" duration="257000" />
+      <workItem from="1610400816266" duration="7918000" />
+      <workItem from="1610409056956" duration="45000" />
+      <workItem from="1610409112422" duration="31000" />
+      <workItem from="1610409152295" duration="5593000" />
+      <workItem from="1610447913472" duration="59000" />
+      <workItem from="1610447984173" duration="4389000" />
+      <workItem from="1610471201101" duration="189000" />
+      <workItem from="1610471687750" duration="223000" />
+      <workItem from="1610489837911" duration="30000" />
+      <workItem from="1610489873112" duration="344000" />
+      <workItem from="1610490226102" duration="927000" />
+      <workItem from="1610621039782" duration="347000" />
+      <workItem from="1610622471384" duration="500000" />
+      <workItem from="1610654038968" duration="458000" />
+      <workItem from="1610655679939" duration="16000" />
+      <workItem from="1610655701694" duration="1251000" />
+      <workItem from="1610659845392" duration="1130000" />
+      <workItem from="1611954078421" duration="152000" />
+      <workItem from="1611954269126" duration="96000" />
+      <workItem from="1611954940670" duration="7798000" />
+      <workItem from="1612027743665" duration="16837000" />
+      <workItem from="1612080436276" duration="3552000" />
+      <workItem from="1612086170844" duration="6349000" />
+      <workItem from="1612097563112" duration="159000" />
+      <workItem from="1612097728929" duration="119000" />
+      <workItem from="1612099222513" duration="8516000" />
+      <workItem from="1612112846718" duration="897000" />
+      <workItem from="1612114033065" duration="345000" />
+      <workItem from="1612114635160" duration="14712000" />
+      <workItem from="1612139116493" duration="1665000" />
+      <workItem from="1612179532269" duration="2380000" />
+    </task>
+    <task id="LOCAL-00001" summary="jest komunikacja obustronna, wczytuje levele z pliku jeżeli nazwa zaczyna sie na leve i konczy na txt. Na jutro poprawic wczytywanie levelow aby dalo sie zagrac kilka podrzad">
+      <created>1611963406922</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611963406922</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="jest komunikacja obustronna, wczytuje levele z pliku jeżeli nazwa zaczyna sie na leve i konczy na txt. Na jutro poprawic wczytywanie levelow aby dalo sie zagrac kilka podrzad" />
+    <option name="LAST_COMMIT_MESSAGE" value="jest komunikacja obustronna, wczytuje levele z pliku jeżeli nazwa zaczyna sie na leve i konczy na txt. Na jutro poprawic wczytywanie levelow aby dalo sie zagrac kilka podrzad" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612028155870">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1612028155870" />
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1612132448215">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1612132448215" />
+    <state x="1130" y="310" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1612137681893">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1130" y="310" key="#com.intellij.ide.util.TreeClassChooserDialog/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1612137681893" />
+    <state x="1223" y="414" width="433" height="217" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1612131882904">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1223" y="414" width="433" height="217" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1612131882904" />
+    <state x="1081" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1612132117882">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1081" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1612132117882" />
+    <state x="1180" y="275" key="FileChooserDialogImpl" timestamp="1612137719255">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1180" y="275" key="FileChooserDialogImpl/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1612137719255" />
+    <state width="914" height="403" key="GridCell.Tab.0.bottom" timestamp="1612186560805">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="403" key="GridCell.Tab.0.bottom/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1612186560805" />
+    <state width="914" height="403" key="GridCell.Tab.0.center" timestamp="1612186560805">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="403" key="GridCell.Tab.0.center/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1612186560805" />
+    <state width="914" height="403" key="GridCell.Tab.0.left" timestamp="1612186560805">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="403" key="GridCell.Tab.0.left/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1612186560805" />
+    <state width="914" height="403" key="GridCell.Tab.0.right" timestamp="1612186560805">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="403" key="GridCell.Tab.0.right/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1612186560805" />
+    <state x="1020" y="263" key="IDE.errors.dialog" timestamp="1612186007075">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1020" y="263" key="IDE.errors.dialog/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1612186007075" />
+    <state x="880" y="94" key="SettingsEditor" timestamp="1612139630575">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="880" y="94" key="SettingsEditor/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1612139630575" />
+    <state x="72" y="253" key="Vcs.Push.Dialog.v2" timestamp="1611963440993">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="72" y="253" key="Vcs.Push.Dialog.v2/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1611963440993" />
+    <state x="1257" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1612107668569">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1257" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1612107668569" />
+    <state x="306" y="165" key="new project wizard" timestamp="1610471301414">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="306" y="165" key="new project wizard/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1610471301414" />
+    <state x="1094" y="244" key="run.anything.popup" timestamp="1610408431981">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1094" y="244" key="run.anything.popup/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1610408431981" />
+  </component>
+</project>
